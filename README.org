@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 02
 
-* Last name:
+* Last name: Chowdhury
 
-* First name:
+* First name: Tamanna
 
-* GitHub username:
+* GitHub username: tamannachowdhuryy
 
 * Notes:
 
