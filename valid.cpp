@@ -1,5 +1,5 @@
 /*
-Author: Tamanna CHowdhury 
+Author: Tamanna Chowdhury 
 GitHub: tamannachowdhuryy
 Course: CSCI-135
 Instructor: Zamankey 
