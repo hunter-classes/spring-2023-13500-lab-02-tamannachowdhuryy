@@ -3,7 +3,7 @@ Author: Tamanna Chowdhury
 GitHub: tamannachowdhuryy
 Course: CSCI-135
 Instructor: Zamankey 
-Assignment: Input validation Lab1A
+Assignment: Input validation Lab2A
 
 This will take the users input and make them enter an integer within 0 < n < 100 and will redo it over and over if the correct number is not inserted. And if it is it will return the square root. 
 */
