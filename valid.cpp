@@ -19,7 +19,7 @@ int main(){
     std::cin >> n;
   }
   if(n > 0 && n < 100){ // this is the other possiblity which is the correct one if the number is less than 0 and greater then 100
-    std::cout << "The square is " << n * n << std::endl; // this will print out the square root of the number the user has inputted 
+    std::cout << "The square is " << n * n << "\n"; // this will print out the square root of the number the user has inputted 
   }
   return 0;
   
