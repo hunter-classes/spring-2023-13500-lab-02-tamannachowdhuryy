@@ -2,7 +2,7 @@
 Author: Tamanna Chowdhury
 GitHub: tamannachowdhuryy
 Course: CSCI-135
-Instructor: Zamankey
+Instructor: Mike Zamansky 
 Assignment: Computing Fibonacci Numbers with Loops and Arrays 0, 1, 1, 2, 3, 5,
 8, 13…. Lab2D
 */
