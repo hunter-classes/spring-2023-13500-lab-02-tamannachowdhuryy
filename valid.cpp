@@ -14,7 +14,7 @@ int main(){
   int n; // the letter we will be using as a placeholder
   std::cout << "Please enter an integer: "; //user will input info
   std::cin >> n;
-  while(n <= 0 || n >= 100){ // this is option one while n is less than or equal too 0 || <- which means or  n greater than equal too 100
+  while(n >= 100 || n <= 0){ // this is option one while n is less than or equal too 0 || <- which means or  n greater than equal too 100
     std::cout << "Please re-enter: "; // user will reinput if it is the wrong number that is not with in the range of 0  to 100
     std::cin >> n;
   }
