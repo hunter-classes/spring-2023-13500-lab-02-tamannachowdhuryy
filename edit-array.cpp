@@ -32,7 +32,7 @@ int main(){
         values[i] = v;// print new values 
       } else{ 
         // this will only accure when the values reach its range
-        std::cout << "Index out of range. Exit." << std::endl;
+        std::cout << "Index out of range. Exit." << "\n";
         break;  // this declears the loop to come to an end 
       }
     } while(true); // decares the array to be true after the staement is put 
