@@ -2,7 +2,7 @@
 Author: Tamanna Chowdhury 
 GitHub: tamannachowdhuryy
 Course: CSCI-135
-Instructor: Zamankey 
+Instructor: Mike Zamansky  
 Assignment: Using arrays to store, update, and retrieve numbers. Lab2C
 */
 
