@@ -21,7 +21,7 @@ int main(){
 // this will print out the values and then give it space between each number 
         std::cout << values[k] << " "; 
       }
-      std::cout << std::endl; //seperate the two line from the users input 
+      std::cout << "\n"; //seperate the two line from the users input 
 // get i and v from the user
         std::cout << "Input index: ";
         std::cin >> i;
